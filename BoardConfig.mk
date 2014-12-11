@@ -22,7 +22,7 @@
 TARGET_EXTERNAL_APPS = sdcard1
 
 # Kernel
-TARGET_KERNEL_VARIANT_CONFIG := msm8930_melius_spr_defconfig msm8930_melius_defconfig SELINUX_DEFCONFIG=selinux_defconfig
+TARGET_KERNEL_VARIANT_CONFIG := msm8930_melius_spr_defconfig
 #TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.7
 
 # NFC
